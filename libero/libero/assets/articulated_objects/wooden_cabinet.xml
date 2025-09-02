@@ -24,7 +24,7 @@
         <body>
           <body name="object">
 	    <body name="base" pos="0 0 0.0">
-		<site type="box" pos="0.00354 0.01567 0.22152" quat="1 0 0 0" size="0.12534 0.09438 0.00147" group="0" rgba="0.8 0.8 0 0" name="top_side"/>
+		<site type="sphere" pos="-0.00278 -0.10161 0.18393" quat="1 0 0 0" size="0.03" rgba="1 0 0 0.5" group="1" name="top_side"/>
 	      <geom solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" type="mesh" mesh="wooden_cabinet_base_vis" conaffinity="0" contype="0" group="1" material="wooden_cabinet_base"/>
 <geom solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" type="box" pos="0.00397 0.10954 0.11350" quat="0.49988 -0.50104 -0.50012 0.49896" size="0.00193 0.10453 0.11106" group="0" rgba="0.8 0.8 0.8 0.3"/>
 <geom solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" type="box" pos="0.00405 0.01635 0.00686" quat="0.70792 0.00065 0.70629 -0.00065" size="0.00199 0.08960 0.12277" group="0" rgba="0.8 0.8 0.8 0.3"/>

@@ -17,4 +17,4 @@ logs/
 libero.egg-info/
 .vscode/
 
-egl_probe/*
+egl_probe/
